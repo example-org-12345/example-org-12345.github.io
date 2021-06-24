@@ -24,10 +24,10 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[Download](https://example-org-12345.github.io) and ![Image](src)
+
 
 ```
-[Download](https://example-org-12345.github.io) and ![Image](src)
+[Download](https://example-org-12345.github.io/download)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
