@@ -27,6 +27,7 @@ Syntax highlighted code block
 [Download](https://example-org-12345.github.io) and ![Image](src)
 
 ```
+[Download](https://example-org-12345.github.io) and ![Image](src)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
